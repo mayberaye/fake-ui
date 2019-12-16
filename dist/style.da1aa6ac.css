@@ -1,0 +1,2 @@
+body{background:#d3d3d3}form{width:30vw;display:grid;grid-template-columns:1fr 1fr}#firstName{grid-column:1}#lastName{grid-column:2}#messageBox{grid-column:1/span 2}#pets,#submit,#yesOrNo{grid-column:1}
+/*# sourceMappingURL=/style.da1aa6ac.css.map */
