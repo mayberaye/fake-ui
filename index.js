@@ -4,7 +4,7 @@ const header = "<header><h1>Hello World!</h1></header>";
 root.innerHTML += header;
 
 const form = `
-<form>
+<form id="fakeUI" action="https://formspree.io/xqkeenry" method="POST">
     <input type='text' id='firstName' placeholder='first name'>
     <input type = 'text' id='lastName' placeholder='last name'>
     <textarea id='messageBox' placeholder='your message here'></textarea>
